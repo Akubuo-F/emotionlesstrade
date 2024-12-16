@@ -1,0 +1,1034 @@
+Error while building assets table: Error Type: <class 'pymysql.err.ProgrammingError'>
+Failed to insert asset SPX: Error Type: <class 'pymysql.err.DataError'>
+Error while building assets table: Error Type: <class 'pymysql.err.DataError'>
+Asset with code SPX already exists. Skipping insertion of this asset.
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2022-06-28, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2022-06-28, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+Failed to build COT report table: Error Type: <class 'pymysql.err.IntegrityError'>
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                    Failed to cache the historical reports because: The reported dates of the COT reports in the list of COT reports are different.
+                
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                    Failed to cache the historical reports because: not readable
+                
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+COT reports could not be fetched from either local repository or from Socrata API.
+COT reports could not be fetched from either local repository or from Socrata API.
+COT reports could not be fetched from either local repository or from Socrata API.
+COT reports could not be fetched from either local repository or from Socrata API.
+COT reports could not be fetched from either local repository or from Socrata API.
+COT reports could not be fetched from either local repository or from Socrata API.
+COT reports could not be fetched from either local repository or from Socrata API.
+COT reports could not be fetched from either local repository or from Socrata API.
+COT reports could not be fetched from either local repository or from Socrata API. Error: Expecting value: line 1 column 1 (char 0)
+
+                        Can't update the COT index of this group: AUD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CAD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: CHF starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: EUR starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: GBP starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: MXN starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NZD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: JPY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: USD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: BTC starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: DJI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: NDX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: RTY starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: SPX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: TNX starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: WTI starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAG starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XAU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XCU starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPD starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+
+                        Can't update the COT index of this group: XPT starting from report: 
+                        2023-12-19, due to error: length of historical net can't be lesser than 156.
+                    
+COT reports could not be fetched from either local repository or from Socrata API. Error: Expecting value: line 1 column 1 (char 0)
+Failed to insert COT reports: Error Type: (1062, "Duplicate entry 'TNX-2024-11-12' for key 'cot_reports.asset_code'")
+COT reports could not be fetched from either local repository or from Socrata API. Error: (1062, "Duplicate entry 'TNX-2024-11-12' for key 'cot_reports.asset_code'")
+COT reports could not be fetched from either local repository or from Socrata API. Error: Cannot connect to host publicreporting.cftc.gov:443 ssl:default [getaddrinfo failed]
+Failed to initialize database connection pool: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
+Failed to initialize database connection pool: 'cryptography' package is required for sha256_password or caching_sha2_password auth methods
